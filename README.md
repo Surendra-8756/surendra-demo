@@ -1,3 +1,3 @@
 # surendra-demo
-This is fisrst program
+This is fisrst program.
 Authur : SURENDRA KUMAR
